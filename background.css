@@ -1,0 +1,16 @@
+body{
+    background-image: url(bck.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+}
+h1{
+    background: linear-gradient(to left,rgb(38, 102, 129),rgb(162, 240, 6));
+    background-repeat: no-repeat;
+    background-attachment: fixed ;
+}
+p{
+    background: linear-gradient(cyan, orange)
+}
