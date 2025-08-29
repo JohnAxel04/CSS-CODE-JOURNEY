@@ -1,0 +1,21 @@
+h1{
+    border-bottom: dotted;
+    border-top: dotted;
+    border-left-style: double;
+    border-right-style: double;
+    border-left-width: 5px;
+    border-left-color: rgb(87, 9, 9);
+    border-right-width: 5px;
+    border-right-color: cyan;
+
+}
+
+
+
+p{
+    border-style: inset;
+    border-width: 1px;
+    border-color: gold;
+    border-radius: 2px;
+    padding: 3px;
+}
